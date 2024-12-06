@@ -10,6 +10,8 @@
 
 ## Die Entwicklung der Integrierten Schaltkreise
 
+## ENstehung der mobilen Endgeräte
+
 ## Zusammenfassung
 
 ## Literatur
